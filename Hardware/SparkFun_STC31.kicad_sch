@@ -3426,152 +3426,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "SparkFun-Resistor:2.2k_0402"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 0)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "R"
-				(at 0 -2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "2.2k"
-				(at 0 2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" "SparkFun-Resistor:R_0402_1005Metric"
-				(at 0 -4.318 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
-				(at 0 -8.89 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Resistor"
-				(at 0 -11.43 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "PROD_ID" "RES-14341"
-				(at 0 -6.858 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "SparkFun R res resistor"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "R_*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "2.2k_0402_0_1"
-				(polyline
-					(pts
-						(xy -1.524 0) (xy -1.143 1.016) (xy -0.762 0) (xy -0.381 -1.016) (xy 0 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 0) (xy 0.381 1.016) (xy 0.762 0) (xy 1.143 -1.016) (xy 1.524 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "2.2k_0402_1_1"
-				(pin passive line
-					(at -2.54 0 0)
-					(length 1.016)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 2.54 0 180)
-					(length 1.016)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "SparkFun-Resistor:3.3k_0603"
 			(pin_numbers
 				(hide yes)
@@ -3718,7 +3572,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "SparkFun-Resistor:4.7k_0402"
+		(symbol "SparkFun-Resistor:4.7k_0603"
 			(pin_numbers
 				(hide yes)
 			)
@@ -3744,7 +3598,7 @@
 					)
 				)
 			)
-			(property "Footprint" "SparkFun-Resistor:R_0402_1005Metric"
+			(property "Footprint" "SparkFun-Resistor:R_0603_1608Metric"
 				(at 0 -4.318 0)
 				(effects
 					(font
@@ -3771,7 +3625,7 @@
 					(hide yes)
 				)
 			)
-			(property "PROD_ID" "RES-15343"
+			(property "PROD_ID" "RES-07857"
 				(at 0 -6.604 0)
 				(effects
 					(font
@@ -3798,7 +3652,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "4.7k_0402_0_1"
+			(symbol "4.7k_0603_0_1"
 				(polyline
 					(pts
 						(xy -1.524 0) (xy -1.143 1.016) (xy -0.762 0) (xy -0.381 -1.016) (xy 0 0)
@@ -3824,7 +3678,7 @@
 					)
 				)
 			)
-			(symbol "4.7k_0402_1_1"
+			(symbol "4.7k_0603_1_1"
 				(pin passive line
 					(at -2.54 0 0)
 					(length 1.016)
@@ -5659,85 +5513,6 @@
 		)
 	)
 	(symbol
-		(lib_id "SparkFun-Resistor:4.7k_0402")
-		(at 85.09 182.88 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "25761faa-6f44-4f43-a412-8b820114e380")
-		(property "Reference" "R3"
-			(at 87.63 181.6099 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "4.7k"
-			(at 87.63 184.1499 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "SparkFun-Resistor:R_0402_1005Metric"
-			(at 89.408 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
-			(at 93.98 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 96.52 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PROD_ID" "RES-15343"
-			(at 91.694 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "9bf5faed-03d4-4024-937e-e71876a7fce3")
-		)
-		(pin "1"
-			(uuid "b16f37cd-c0fa-46ed-a7e8-ca0741d4fc4b")
-		)
-		(instances
-			(project ""
-				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
-					(reference "R3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "SparkFun-Sensor:STC31")
 		(at 97.79 54.61 0)
 		(unit 1)
@@ -6106,6 +5881,84 @@
 		)
 	)
 	(symbol
+		(lib_id "SparkFun-Resistor:4.7k_0603")
+		(at 207.01 128.27 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "432ae140-a006-45bf-ab68-6df4b84cde84")
+		(property "Reference" "R8"
+			(at 202.692 126.746 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "4.7k"
+			(at 201.422 129.54 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "SparkFun-Resistor:R_0603_1608Metric"
+			(at 202.692 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
+			(at 198.12 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 195.58 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PROD_ID" "RES-07857"
+			(at 200.406 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "925fbee1-ebf4-4738-a489-cd0d4ad0b0e4")
+		)
+		(pin "1"
+			(uuid "36231dfd-71ff-42e4-96e1-aec3f773dcad")
+		)
+		(instances
+			(project ""
+				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
+					(reference "R8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "SparkFun-Connector:Qwiic_Right_Angle")
 		(at 212.09 39.37 0)
 		(unit 1)
@@ -6408,85 +6261,6 @@
 			(project ""
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
 					(reference "D1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "SparkFun-Resistor:2.2k_0402")
-		(at 214.63 128.27 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "55080ab7-d476-4e91-8708-034a3cdb7132")
-		(property "Reference" "R2"
-			(at 217.17 126.9999 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "2.2k"
-			(at 217.17 129.5399 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "SparkFun-Resistor:R_0402_1005Metric"
-			(at 218.948 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
-			(at 223.52 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 226.06 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PROD_ID" "RES-14341"
-			(at 221.488 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "0eb6b867-fd07-419a-ae0e-3276fb657e52")
-		)
-		(pin "1"
-			(uuid "4f62c120-4cda-420c-9f5f-37c30f4954b3")
-		)
-		(instances
-			(project ""
-				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
-					(reference "R2")
 					(unit 1)
 				)
 			)
@@ -7309,6 +7083,84 @@
 		)
 	)
 	(symbol
+		(lib_id "SparkFun-Resistor:4.7k_0603")
+		(at 85.09 182.88 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "7eab0a89-0b48-4140-b9f3-7b7675c22aff")
+		(property "Reference" "R9"
+			(at 80.772 181.356 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "4.7k"
+			(at 79.502 184.15 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "SparkFun-Resistor:R_0603_1608Metric"
+			(at 80.772 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
+			(at 76.2 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 73.66 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PROD_ID" "RES-07857"
+			(at 78.486 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "25f0c727-e765-48d1-ad2b-db1a4f500e83")
+		)
+		(pin "1"
+			(uuid "71b3eea4-979e-488c-b440-1579dc8e01bf")
+		)
+		(instances
+			(project "SparkFun_STC31"
+				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
+					(reference "R9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "SparkFun-PowerSymbol:3.3V")
 		(at 85.09 172.72 0)
 		(unit 1)
@@ -7773,17 +7625,16 @@
 		(dnp no)
 		(uuid "b8ac0351-59c1-42a6-9084-e9e990e98a2e")
 		(property "Reference" "JP1"
-			(at 87.63 175.8949 90)
+			(at 86.868 175.768 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 		(property "Value" "LED"
-			(at 86.868 176.784 90)
+			(at 86.868 177.8 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8093,34 +7944,35 @@
 		)
 	)
 	(symbol
-		(lib_id "SparkFun-Resistor:2.2k_0402")
-		(at 207.01 128.27 270)
+		(lib_id "SparkFun-Resistor:4.7k_0603")
+		(at 214.63 128.27 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "c9b38484-2cb8-473a-8f8c-b36c35d165f4")
-		(property "Reference" "R6"
-			(at 201.93 127.508 90)
+		(fields_autoplaced yes)
+		(uuid "c6cf5435-2374-45a9-88cb-03f64b04bd1f")
+		(property "Reference" "R7"
+			(at 217.17 126.9999 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
-		(property "Value" "2.2k"
-			(at 200.406 129.54 90)
+		(property "Value" "4.7k"
+			(at 217.17 129.5399 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
-		(property "Footprint" "SparkFun-Resistor:R_0402_1005Metric"
-			(at 202.692 128.27 0)
+		(property "Footprint" "SparkFun-Resistor:R_0603_1608Metric"
+			(at 218.948 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8129,7 +7981,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
-			(at 198.12 128.27 0)
+			(at 223.52 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8138,7 +7990,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 195.58 128.27 0)
+			(at 226.06 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8146,25 +7998,25 @@
 				(hide yes)
 			)
 		)
-		(property "PROD_ID" "RES-14341"
-			(at 200.152 128.27 0)
+		(property "PROD_ID" "RES-07857"
+			(at 221.234 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
 			)
-		)
-		(pin "2"
-			(uuid "878d57f0-0871-4bd4-8e3e-e04b20d3b6e0")
 		)
 		(pin "1"
-			(uuid "03e83118-fc46-4fb6-b1ac-8898c2b7b092")
+			(uuid "2bda7e41-5b3d-44a9-9916-8db271f611e1")
+		)
+		(pin "2"
+			(uuid "ea353258-3d5d-43af-a41d-98c14a09a78e")
 		)
 		(instances
 			(project ""
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
-					(reference "R6")
+					(reference "R7")
 					(unit 1)
 				)
 			)
