@@ -1,8 +1,8 @@
-2025-06-06 10:28:59,717 - cammer_logger - INFO - Running CAMmer
-2025-06-06 10:28:59,717 - cammer_logger - INFO - ['-l', 'F.Cu,B.Cu,F.Paste,B.Paste,F.Silkscreen,B.Silkscreen,F.Mask,B.Mask', '-e', 'Edge.Cuts,User.Comments']
-2025-06-06 10:28:59,717 - cammer_logger - INFO - CAMMER START: 2025-06-06T10:28:59.717979
-2025-06-06 10:29:04,057 - cammer_logger - INFO - 
-START: 2025-06-06T10:28:59.717973
+2025-06-10 14:59:58,314 - cammer_logger - INFO - Running CAMmer
+2025-06-10 14:59:58,314 - cammer_logger - INFO - ['-l', 'F.Cu,B.Cu,F.Paste,B.Paste,F.Silkscreen,B.Silkscreen,F.Mask,B.Mask', '-e', 'Edge.Cuts,User.Comments']
+2025-06-10 14:59:58,315 - cammer_logger - INFO - CAMMER START: 2025-06-10T14:59:58.315742
+2025-06-10 15:00:01,571 - cammer_logger - INFO - 
+START: 2025-06-10T14:59:58.315736
 Board saved by user.
 Zones filled by CAMmer.
 Renaming /home/amo/SparkFun/SparkFun_CO2_Sensor-STC31/Hardware/Production/SparkFun_STC31_panelized-F_Cu.gbr to /home/amo/SparkFun/SparkFun_CO2_Sensor-STC31/Hardware/Production/SparkFun_STC31_panelized.GTL
@@ -16,4 +16,4 @@ Renaming /home/amo/SparkFun/SparkFun_CO2_Sensor-STC31/Hardware/Production/SparkF
 Renaming /home/amo/SparkFun/SparkFun_CO2_Sensor-STC31/Hardware/Production/SparkFun_STC31_panelized-Edge_Cuts.gbr to /home/amo/SparkFun/SparkFun_CO2_Sensor-STC31/Hardware/Production/SparkFun_STC31_panelized.GKO
 Drill report: /home/amo/SparkFun/SparkFun_CO2_Sensor-STC31/Hardware/Production/drill_report.rpt
 
-2025-06-06 10:29:05,986 - cammer_logger - INFO - CAMmer complete
+2025-06-10 15:00:03,767 - cammer_logger - INFO - CAMmer complete
