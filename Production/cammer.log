@@ -1,19 +1,28 @@
-2025-06-10 14:59:58,314 - cammer_logger - INFO - Running CAMmer
-2025-06-10 14:59:58,314 - cammer_logger - INFO - ['-l', 'F.Cu,B.Cu,F.Paste,B.Paste,F.Silkscreen,B.Silkscreen,F.Mask,B.Mask', '-e', 'Edge.Cuts,User.Comments']
-2025-06-10 14:59:58,315 - cammer_logger - INFO - CAMMER START: 2025-06-10T14:59:58.315742
-2025-06-10 15:00:01,571 - cammer_logger - INFO - 
-START: 2025-06-10T14:59:58.315736
+2025-07-22 09:56:49,356 - cammer_logger - INFO - Running CAMmer
+2025-07-22 09:56:49,357 - cammer_logger - INFO - ['-l', 'F.Cu,B.Cu,F.Paste,B.Paste,F.Silkscreen,B.Silkscreen,F.Mask,B.Mask', '-e', 'Edge.Cuts,User.Comments,User.1']
+2025-07-22 09:56:49,359 - cammer_logger - INFO - CAMMER START: 2025-07-22T09:56:49.359828
+2025-07-22 09:56:56,109 - cammer_logger - INFO - 
+START: 2025-07-22T09:56:49.359809
 Board saved by user.
 Zones filled by CAMmer.
-Renaming /home/amo/SparkFun/SparkFun_CO2_Sensor-STC31/Hardware/Production/SparkFun_STC31_panelized-F_Cu.gbr to /home/amo/SparkFun/SparkFun_CO2_Sensor-STC31/Hardware/Production/SparkFun_STC31_panelized.GTL
-Renaming /home/amo/SparkFun/SparkFun_CO2_Sensor-STC31/Hardware/Production/SparkFun_STC31_panelized-B_Cu.gbr to /home/amo/SparkFun/SparkFun_CO2_Sensor-STC31/Hardware/Production/SparkFun_STC31_panelized.GBL
-Renaming /home/amo/SparkFun/SparkFun_CO2_Sensor-STC31/Hardware/Production/SparkFun_STC31_panelized-F_Paste.gbr to /home/amo/SparkFun/SparkFun_CO2_Sensor-STC31/Hardware/Production/SparkFun_STC31_panelized.GTP
-Renaming /home/amo/SparkFun/SparkFun_CO2_Sensor-STC31/Hardware/Production/SparkFun_STC31_panelized-B_Paste.gbr to /home/amo/SparkFun/SparkFun_CO2_Sensor-STC31/Hardware/Production/SparkFun_STC31_panelized.GBP
-Renaming /home/amo/SparkFun/SparkFun_CO2_Sensor-STC31/Hardware/Production/SparkFun_STC31_panelized-F_Silkscreen.gbr to /home/amo/SparkFun/SparkFun_CO2_Sensor-STC31/Hardware/Production/SparkFun_STC31_panelized.GTO
-Renaming /home/amo/SparkFun/SparkFun_CO2_Sensor-STC31/Hardware/Production/SparkFun_STC31_panelized-B_Silkscreen.gbr to /home/amo/SparkFun/SparkFun_CO2_Sensor-STC31/Hardware/Production/SparkFun_STC31_panelized.GBO
-Renaming /home/amo/SparkFun/SparkFun_CO2_Sensor-STC31/Hardware/Production/SparkFun_STC31_panelized-F_Mask.gbr to /home/amo/SparkFun/SparkFun_CO2_Sensor-STC31/Hardware/Production/SparkFun_STC31_panelized.GTS
-Renaming /home/amo/SparkFun/SparkFun_CO2_Sensor-STC31/Hardware/Production/SparkFun_STC31_panelized-B_Mask.gbr to /home/amo/SparkFun/SparkFun_CO2_Sensor-STC31/Hardware/Production/SparkFun_STC31_panelized.GBS
-Renaming /home/amo/SparkFun/SparkFun_CO2_Sensor-STC31/Hardware/Production/SparkFun_STC31_panelized-Edge_Cuts.gbr to /home/amo/SparkFun/SparkFun_CO2_Sensor-STC31/Hardware/Production/SparkFun_STC31_panelized.GKO
-Drill report: /home/amo/SparkFun/SparkFun_CO2_Sensor-STC31/Hardware/Production/drill_report.rpt
+Deleting existing /home/edspark/SparkFun/SparkFun_CO2_Sensor-STC31/Hardware/Production/SparkFun_STC31_panelized.GTL
+Renaming /home/edspark/SparkFun/SparkFun_CO2_Sensor-STC31/Hardware/Production/SparkFun_STC31_panelized-F_Cu.gbr to /home/edspark/SparkFun/SparkFun_CO2_Sensor-STC31/Hardware/Production/SparkFun_STC31_panelized.GTL
+Deleting existing /home/edspark/SparkFun/SparkFun_CO2_Sensor-STC31/Hardware/Production/SparkFun_STC31_panelized.GBL
+Renaming /home/edspark/SparkFun/SparkFun_CO2_Sensor-STC31/Hardware/Production/SparkFun_STC31_panelized-B_Cu.gbr to /home/edspark/SparkFun/SparkFun_CO2_Sensor-STC31/Hardware/Production/SparkFun_STC31_panelized.GBL
+Deleting existing /home/edspark/SparkFun/SparkFun_CO2_Sensor-STC31/Hardware/Production/SparkFun_STC31_panelized.GTP
+Renaming /home/edspark/SparkFun/SparkFun_CO2_Sensor-STC31/Hardware/Production/SparkFun_STC31_panelized-F_Paste.gbr to /home/edspark/SparkFun/SparkFun_CO2_Sensor-STC31/Hardware/Production/SparkFun_STC31_panelized.GTP
+Deleting existing /home/edspark/SparkFun/SparkFun_CO2_Sensor-STC31/Hardware/Production/SparkFun_STC31_panelized.GBP
+Renaming /home/edspark/SparkFun/SparkFun_CO2_Sensor-STC31/Hardware/Production/SparkFun_STC31_panelized-B_Paste.gbr to /home/edspark/SparkFun/SparkFun_CO2_Sensor-STC31/Hardware/Production/SparkFun_STC31_panelized.GBP
+Deleting existing /home/edspark/SparkFun/SparkFun_CO2_Sensor-STC31/Hardware/Production/SparkFun_STC31_panelized.GTO
+Renaming /home/edspark/SparkFun/SparkFun_CO2_Sensor-STC31/Hardware/Production/SparkFun_STC31_panelized-F_Silkscreen.gbr to /home/edspark/SparkFun/SparkFun_CO2_Sensor-STC31/Hardware/Production/SparkFun_STC31_panelized.GTO
+Deleting existing /home/edspark/SparkFun/SparkFun_CO2_Sensor-STC31/Hardware/Production/SparkFun_STC31_panelized.GBO
+Renaming /home/edspark/SparkFun/SparkFun_CO2_Sensor-STC31/Hardware/Production/SparkFun_STC31_panelized-B_Silkscreen.gbr to /home/edspark/SparkFun/SparkFun_CO2_Sensor-STC31/Hardware/Production/SparkFun_STC31_panelized.GBO
+Deleting existing /home/edspark/SparkFun/SparkFun_CO2_Sensor-STC31/Hardware/Production/SparkFun_STC31_panelized.GTS
+Renaming /home/edspark/SparkFun/SparkFun_CO2_Sensor-STC31/Hardware/Production/SparkFun_STC31_panelized-F_Mask.gbr to /home/edspark/SparkFun/SparkFun_CO2_Sensor-STC31/Hardware/Production/SparkFun_STC31_panelized.GTS
+Deleting existing /home/edspark/SparkFun/SparkFun_CO2_Sensor-STC31/Hardware/Production/SparkFun_STC31_panelized.GBS
+Renaming /home/edspark/SparkFun/SparkFun_CO2_Sensor-STC31/Hardware/Production/SparkFun_STC31_panelized-B_Mask.gbr to /home/edspark/SparkFun/SparkFun_CO2_Sensor-STC31/Hardware/Production/SparkFun_STC31_panelized.GBS
+Deleting existing /home/edspark/SparkFun/SparkFun_CO2_Sensor-STC31/Hardware/Production/SparkFun_STC31_panelized.GKO
+Renaming /home/edspark/SparkFun/SparkFun_CO2_Sensor-STC31/Hardware/Production/SparkFun_STC31_panelized-Edge_Cuts.gbr to /home/edspark/SparkFun/SparkFun_CO2_Sensor-STC31/Hardware/Production/SparkFun_STC31_panelized.GKO
+Drill report: /home/edspark/SparkFun/SparkFun_CO2_Sensor-STC31/Hardware/Production/drill_report.rpt
 
-2025-06-10 15:00:03,767 - cammer_logger - INFO - CAMmer complete
+2025-07-22 09:56:57,542 - cammer_logger - INFO - CAMmer complete

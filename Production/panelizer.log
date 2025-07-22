@@ -1,14 +1,14 @@
-2025-06-10 14:58:40,013 - panelizer_logger - INFO - Running Panelizer
-2025-06-10 14:58:40,013 - panelizer_logger - INFO - ['--panelx', '152.400000', '--panely', '203.200000', '--smaller', '--vscorelayer', 'User.Comments', '--vscoretextlayer', 'User.Comments', '--gapx', '0.000000', '--gapy', '0.000000', '--norightgap', '--hrail', '6.35', '--vrail', '6.35', '--fiducialpos', '0.25', '--fiducialslr']
-2025-06-10 14:58:40,015 - panelizer_logger - INFO - PANELIZER START: 2025-06-10T14:58:40.015053
-2025-06-10 14:58:46,629 - panelizer_logger - INFO - 
-START: 2025-06-10T14:58:40.015046
+2025-07-22 09:55:41,633 - panelizer_logger - INFO - Running Panelizer
+2025-07-22 09:55:41,636 - panelizer_logger - INFO - ['--panelx', '152.400000', '--panely', '203.200000', '--smaller', '--vscorelayer', 'User.Comments', '--vscoretextlayer', 'User.Comments', '--gapx', '0.000000', '--gapy', '0.000000', '--norightgap', '--hrail', '6.35', '--vrail', '6.35', '--fiducialpos', '0.25', '--fiducialslr']
+2025-07-22 09:55:41,639 - panelizer_logger - INFO - PANELIZER START: 2025-07-22T09:55:41.639820
+2025-07-22 09:56:04,370 - panelizer_logger - INFO - 
+START: 2025-07-22T09:55:41.639768
 Board saved by user.
 Zones filled by Panelizer.
 
-Board: /home/amo/SparkFun/SparkFun_CO2_Sensor-STC31/Hardware/Production/SparkFun_STC31_panelized.kicad_pcb
+Board: /home/edspark/SparkFun/SparkFun_CO2_Sensor-STC31/Hardware/Production/SparkFun_STC31_panelized.kicad_pcb
 Board dimensions: 25.40 x 25.40 mm.
 You can fit 5 x 7 boards on the panel.
 Zones refilled by Panelizer.
 
-2025-06-10 14:58:49,484 - panelizer_logger - INFO - Panelizer complete
+2025-07-22 09:56:05,808 - panelizer_logger - INFO - Panelizer complete
