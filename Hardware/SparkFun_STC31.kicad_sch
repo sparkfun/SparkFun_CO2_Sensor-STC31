@@ -6960,7 +6960,7 @@
 			(uuid "fbf7d387-1fbc-4bf9-9cf2-f39cb11a5e2e")
 		)
 		(instances
-			(project "SparkFun_VEML7700"
+			(project "SparkFun_STC31"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
 					(reference "#PWR0109")
 					(unit 1)
@@ -8278,7 +8278,7 @@
 			(uuid "b0b8c8b7-95cf-40b9-827d-76023fb397b3")
 		)
 		(instances
-			(project "SparkFun_VEML7700"
+			(project "SparkFun_STC31"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
 					(reference "#PWR0111")
 					(unit 1)

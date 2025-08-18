@@ -8,7 +8,7 @@
 	)
 	(paper "USLetter")
 	(title_block
-		(title "SparkFun Ambient Light Sensor - VEML7700")
+		(title "SparkFun CO2 Sensor - STC31")
 		(date "2025-04-24")
 		(rev "v10")
 		(company "SparkFun Electronics")
