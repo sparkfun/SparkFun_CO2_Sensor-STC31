@@ -1,7 +1,7 @@
 Let's take a closer look at the STC31 CO<sub>2</sub>, SHTC3 temperature and humidity sensor and other hardware on the SparkFun CO2 Sensor - STC31 breakout.
 
 <figure markdown>
-[![Annotated image of the SparkFun CO2 Sensor - STC31]]
+[![Annotated image of the SparkFun CO2 Sensor - STC31](./assets/img/CO2-Sensor-STC31-Annotated.png){ width="600"}](./assets/img/CO2-Sensor-STC31-Annotated.png "Click to enlarge")
 </figure>
 
 ## STC31 CO<sub>2</sub> Sensor

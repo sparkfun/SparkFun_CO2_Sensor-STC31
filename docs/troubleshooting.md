@@ -1,6 +1,6 @@
 ## Power Consumption Tips
 
-If you're looking to optimize this breakout board to pull as little current as possible we recommend starting by opening the LED solder jumper to disable the power LED. To further reduce the current draw, you'll want to refer to the table on page 9 of the [datasheet](./assets/component_documentation/STC31_Datasheet.pdf) for complete information on power consumption with various settings.
+If you're looking to optimize this breakout board to pull as little current as possible we recommend starting by opening the LED solder jumper to disable the power LED. To further reduce the current draw, you'll want to refer to the [datasheet](./assets/component_documentation/STC31_Datasheet.pdf) for complete information on power consumption with various settings.
 
 ## General Troubleshooting
 

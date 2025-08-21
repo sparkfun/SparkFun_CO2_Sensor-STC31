@@ -1,8 +1,10 @@
 <figure markdown>
-[![STC31 Hookup Guide Banner image](){ width="600"}]
+[![STC31 Hookup Guide Banner image](./assets/img/CO2-Sensor-STC31-HG-Banner.png){ width="800"}](./assets/img/CO2-Sensor-STC31-HG-Banner.png)
 </figure>
 
-The SparkFun CO2 Sensor - STC31 
+The [SparkFun CO2 Sensor - STC31](https://www.sparkfun.com/sparkfun-co2-sensor-stc31-qwiic.html) is a Qwiic breakout featuring the STC31 CO<sub>2</sub> and SHTC3 Temperature and Humidity sensors from Sensirion<sup>&reg;</sup> to accurately measure CO<sub>2</sub> concentrations up to 100% with high repeatability and long-term stability with humidity and temperature compensation via the built-in SHTC3. 
+
+The STC3x sensor family is Sensirion’s series of Gas Concentration sensors designed for high-volume applications. The STC3x utilizes a revolutionized thermal conductivity measurement principle, which results in superior repeatability and long-term stability. This makes the STC31 a perfect choice for applications where reliability is key. The outstanding performance of these sensors is based on Sensirion’s patented CMOSens<sup>&reg;</sup> sensor technology, which combines the sensor element, signal processing and digital calibration on a small CMOS chip. The well-proven CMOS technology is perfectly suited for high-quality mass production and is the ideal choice for demanding and cost-sensitive OEM applications.
 
 This guide covers how to get CO2 and other environmental readings from the STC31 using both Arduino and MicroPython when connecting the CO2 Sensor Breakout to a compatible development board over Qwiic. In order to follow along with this guide you'll need the CO2 Sensor - STC31 along with the following materials:
 

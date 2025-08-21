@@ -1,41 +1,29 @@
-SparkFun <PRODUCT NAME>
-========================================
+[![SparkFun CO2 Sensor - STC31 (Qwiic)](./docs/assets/img/CO2-Sensor-STC31-GH-Banner.png)](https://www.sparkfun.com/sparkfun-co2-sensor-stc31-qwiic.html)
 
-[![SparkFun Part Name](URL for picture of part)](URL for product on Sparkfun.com)
+[*SparkFun CO<sub>2</sub> Sensor - STC31 (Qwiic) (SEN-29260)*](https://www.sparkfun.com/sparkfun-co2-sensor-stc31-qwiic.html)
 
-[*SparkFun Part Name (SKU)*](URL for product on Sparkfun.com)
-
-<Basic description of the part.>
+The SparkFun CO<sub>2</sub> Sensor - STC31 is a Qwiic breakout featuring the STC31 CO<sub>2</sub> and SHTC3 Temperature and Humidity sensors from Sensirion<sup>&reg;</sup> to accurately measure CO<sub>2</sub> concentrations up to 100% with high repeatability and long-term stability with humidity and temperature compensation via the built-in SHTC3. 
 
 Repository Contents
 -------------------
 
-* **/Documentation** - Data sheets, additional product information
-* **/Enclosure** - Enclosure files 
-* **/Firmware** - Example code 
+* **/docs** - GitHub Pages documentation files
+* **/Documentation** - Datasheets, application notes, etc.
 * **/Hardware** - Eagle design files (.brd, .sch)
-* **/Libraries** - Libraries for use with the <PRODUCT NAME>
 * **/Production** - Production panel files (.brd)
-* **/Software** - Related software for the <PRODUCT NAME>
+
 
 Documentation
 --------------
-* **[Library](GitHub library URL)** - <LANGUAGE> library for the <PRODUCT NAME>.
-* **[Hookup Guide](Learn.SparkFun URL)** - Basic hookup guide for the <PRODUCT NAME>.
-* **[SparkFun Fritzing repo](https://github.com/sparkfun/Fritzing_Parts)** - Fritzing diagrams for SparkFun products.
-* **[SparkFun 3D Model repo](https://github.com/sparkfun/3D_Models)** - 3D models of SparkFun products. 
-* **[SparkFun Graphical Datasheets](https://github.com/sparkfun/Graphical_Datasheets)** -Graphical Datasheets for various SparkFun products.
+* **[STC3x Arduino Library](https://github.com/sparkfun/SparkFun_STC3x_Arduino_Library)** - Arduino library for the SparkFun CO<sub>2</sub> Sensor - STC31 (Qwiic).
+* **[STC3x Python Package](https://github.com/sparkfun/qwiic_stc3x_py) - Python package for the SparkFun CO<sub>2</sub> Sensor - STC31 (Qwiic).
+* **[Hookup Guide](https://docs.sparkfun.com/SparkFun_CO2_Sensor-STC31)** - Basic hookup guide for the SparkFun CO<sub>2</sub> Sensor - STC31 (Qwiic.
+
 
 Product Versions
 ----------------
-* [Part SKU](part URL) - Basic part and short description here
-* [Retail part SKU](retail URL) - Retail packaging of standard description here
-* [Any other parts this repo covers](any other URLs) - Description of said parts
-
-Version History
----------------
-* [vExxFxxZxxHxxLxxSxx](URL for tag specific to this version) - Description 
-* [vEyyFyyZyyHyyLyySyy](URL for tag specific to this version) - Description
+* [SEN-29260](https://www.sparkfun.com/sparkfun-co2-sensor-stc31-qwiic.html) - SparkFun "Reds" release of the CO<sub>2</sub> Sensor - STC31 (Qwiic).
+* [SPX-18385](https://www.sparkfun.com/co-sensor-stc31-qwiic.html) - Initial SparkX release of the CO<sub>2</sub> Sensor - STC31 (Qwiic)
 
 License Information
 -------------------
@@ -49,5 +37,3 @@ If you have any questions or concerns on licensing, please contact technical sup
 Distributed as-is; no warranty is given.
 
 - Your friends at SparkFun.
-
-_<COLLABORATION CREDIT>_

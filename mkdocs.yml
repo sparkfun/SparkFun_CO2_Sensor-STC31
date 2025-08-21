@@ -5,7 +5,7 @@ site_url: https://sparkfun.github.io/SparkFun_CO2_Sensor-STC31
 site_author: SparkFun Electronics
 
 repo_url: https://github.com/sparkfun/SparkFun_CO2_Sensor-STC31
-repo_name: sparkfun/SparkFun_MP3_Player_Shield-MY1690X
+repo_name: sparkfun/SparkFun_CO2_Sensor-STC31
 
 copyright:
   Copyright 2023 - <a href="https://www.sparkfun.com/" target="_blank" rel="noopener">SparkFun Electronics&#174;</a><br>
@@ -278,9 +278,9 @@ nav:
       - Hardware Overview: hardware_overview.md
       - Hardware Assembly: hardware_assembly.md
     - Software:
-      - Arduino Library Setup: arduino_setup.md
-      - Arduino Example: arduino_examples.md
-      - Python Package Setup: python_setup.md
+      - STC3x Arduino Library Setup: arduino_setup.md
+      - Arduino Examples: arduino_examples.md
+      - STC3x Python Package Setup: python_setup.md
       - Python Examples: python_examples.md
     - Resources: resources.md
     - Support:

@@ -1,4 +1,4 @@
-The SparkFun STC3x Python Package is based off the Arduino libraries for the STX3x family of CO<sub>2</sub> sensors from Sensirion<sup>&trade;</sup>. It works for Python, MicroPython and CircuitPython so you can choose which "flavor" of Python to use. This section goes over how to install the package in each supported Python environment along with the necessary tools for installation and running examples.
+The [SparkFun STC3x Python Package](https://github.com/sparkfun/qwiic_stc3x_py) is based off the Arduino libraries for the STX3x family of CO<sub>2</sub> sensors from Sensirion<sup>&trade;</sup>. It works for Python, MicroPython and CircuitPython so you can choose which "flavor" of Python to use. This section goes over how to install the package in each supported Python environment along with the necessary tools for installation and running examples.
 
 ## Python Installation
 
@@ -25,8 +25,12 @@ Lastly, users who prefer CircuitPython can install the package with the followin
 * Make sure you have the latest version of the SparkFun Qwiic CircuitPython module installed with this command: `circup bundle-add sparkfun/Qwiic_py`
 * Connect your CircuitPython device to your computer and install the package to the device with circup: `circup install --py qwiic_stcx`
 
-If you want to install specific examples from the repository, use the following command:
+If you want to install specific examples from the repository, use the corresponding circup command from below:
 
-
-
+```
+circup example qwiic_stc3x\qwiic_stc3x_ex1_basic
+circup example qwiic_stc3x\qwiic_stc3x_ex2_PHT_compensation
+circup example qwiic_stc3x\qwiic_stc3x_ex4_self_test
+circup example qwiic_stc3x\qwiic_stc3x_ex5_auto_calibration
+```
 Note, the syntax used here are for Windows commands; Linux and Mac have different path separators. Refer to the [CircUp "example command documentation](https://learn.adafruit.com/keep-your-circuitpython-libraries-on-devices-up-to-date-with-circup/example-command) for more information.

@@ -5,7 +5,7 @@ Now that we're familiar with the hardware on this Qwiic breakout, let's assemble
 The Qwiic system allows solderless connections for power and I<sup>2</sup>C so all you need to get up and running is a Qwiic cable and Qwiic compatible development board (or a Qwiic adapter cable). Assemble your Qwiic circuit by connecting the CO2 Sensor - STC31 to your development board with the Qwiic cable and then connecting the development board to your computer over USB like the photo below shows:
 
 <figure markdown>
-[![Photo showing completed Qwiic assembly with the CO2 Sensor - STC31]]
+[![Photo showing completed Qwiic assembly with the CO2 Sensor - STC31](./assets/img/CO2-Sensor-STC31-Assembly.jpg){ width="600"}](./assets/img/CO2-Sensor-STC31-Assembly.jpg "Click to enlarge")
 </figure>
 
 ## Soldered Assembly
